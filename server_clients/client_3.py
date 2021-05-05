@@ -1,6 +1,6 @@
 import socket
 import hashlib
-from imported_files import des, en_de_functions, reformat_length
+from juice import des, en_de_functions, reformat_length
 
 # --parity bit drop table
 keyp = [57, 49, 41, 33, 25, 17, 9,

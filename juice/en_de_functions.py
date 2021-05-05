@@ -1,4 +1,4 @@
-from imported_files import rsa
+from juice import rsa
 
 
 def encrypt(data, private):

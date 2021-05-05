@@ -3,7 +3,7 @@ import threading
 from queue import Queue
 import hashlib
 import os
-from imported_files import des, en_de_functions, reformat_length, rsa
+from juice import des, en_de_functions, reformat_length, rsa
 
 NUMBER_OF_THREADS = 2
 JOB_NUMBER = [1, 2]
